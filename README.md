@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Wanming!
 
 ### 🌌 Exploring the Intersection of Logic, Quant Concepts & AI
-Based in Frankfurt, Germany, I come from a background rooted in **Mathematics**. While I wouldn't call myself a coding expert, I am incredibly passionate about using technology as a toolkit to solve problems. 
-
 Right now, I am learning how to collaborate with AI assistants, LLMs, and multi-agent frameworks to prototype ideas, automate tasks, and explore data-driven concepts. For me, programming is an ongoing journey, and I love the process of building, breaking, and learning step-by-step.
 
 
