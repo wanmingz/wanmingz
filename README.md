@@ -15,6 +15,6 @@ Right now, I am learning how to collaborate with AI assistants, LLMs, and multi-
 | Category | Areas of Interest & Tools |
 | :--- | :--- |
 | **AI Collaboration** | LLM Prompting, AI-Assisted Workflows|
-| **Tech I'm Practicing** | Python, Markdown, Git & GitHub |
+| **Tech I'm Practicing** | Python |
 
 *“Always learning, one prompt and one line of code at a time.”*
